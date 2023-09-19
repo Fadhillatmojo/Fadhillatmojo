@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://zaap.bio/fadhillatmojo](https://zaap.bio/fadhillatmojo)
 
-- ⚡ Fun fact **I think I'm not funny enoughtomake my friend laugh:)**
+- ⚡ Fun fact **I think I'm not funny enough to make my friend laugh:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
