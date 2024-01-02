@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadhillatmojo&label=Profile%20views&color=0e75b6&style=flat" alt="fadhillatmojo" /> </p>
 
-- 🌱 I’m currently learning **Laravel, Kotlin, Tailwind, React**
+- 🌱 I’m currently learning **NextJs and ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://zaap.bio/fadhillatmojo](https://zaap.bio/fadhillatmojo)
 
