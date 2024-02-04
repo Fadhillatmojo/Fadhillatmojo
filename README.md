@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadhillatmojo&label=Profile%20views&color=0e75b6&style=flat" alt="fadhillatmojo" /> </p>
 
-- 🌱 I’m currently learning **NextJs and MERN Stack**
+- 🌱 I’m currently learning **NextJs, MERN Stack and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://zaap.bio/fadhillatmojo](https://zaap.bio/fadhillatmojo)
 
-- 💬 Ask me about **Java, Python, Bootstrap**
+- 💬 Ask me about **Java, Python, Javascript, Web Programming**
 
 - 📫 How to reach me **https://www.linkedin.com/in/fadhillatmojo/**
 
