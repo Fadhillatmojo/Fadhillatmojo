@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://zaap.bio/fadhillatmojo](https://zaap.bio/fadhillatmojo)
 
-- 💬 Ask me about **Java, Python, Javascript, Web Programming**
+- 💬 Ask me about **PHP, Python, Javascript, Web Programming**
 
 - 📫 How to reach me **https://www.linkedin.com/in/fadhillatmojo/**
 
 - 📄 Know about my experiences [https://fadhillatmojo.com/](https://fadhillatmojo.com/)
 
-- ⚡ Fun fact **I think I'm not funny enough to make my friend laugh:)**
+- ⚡ Fun fact **I love Olivia Rodrigo's Song:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
