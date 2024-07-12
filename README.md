@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fadhill Atmojo</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia. I'm a student of Software engineering in UGM, so I learn a lot of software development process, all about the software, starting with product research, design process, implementation, and so on, so that it becomes a complete program.</h3>
+<h3 align="center">A passionate fullstack developer from Indonesia. I'm a student of Software engineering in UGM, so I learn a lot of software development process, all about the software, starting with product research, design process, implementation, and so on, so that it becomes a complete program. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadhillatmojo&label=Profile%20views&color=0e75b6&style=flat" alt="fadhillatmojo" /> </p>
 
