@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://fadhillatmojo.com/](https://fadhillatmojo.com/)
 
-- 💬 Ask me about **PHP, Python, Javascript, Web Programming**
+- 💬 Ask me about **PHP Laravel, Tailwind Css, Javascript, and all about web development**
 
 - 📫 How to reach me **https://www.linkedin.com/in/fadhillatmojo/**
 
